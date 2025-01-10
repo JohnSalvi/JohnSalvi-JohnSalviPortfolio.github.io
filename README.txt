@@ -1,32 +1,6 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+This is my current portfolio inspired by HTML5UP, you should 100% check out their website if you want some cool looking CSS that can work well for a ton of different applications, I chose to use their materials to make what was going to be a display of class projects, but I quickly realized that this wouldn't work as these projects are suppossed to say hidden from future students in the classes that I took, so for the time being links to projects on my webpage shouldn't all be working and that is fine. 
 
+I hope to revise the webpage soont to incorporate descriptions of what types of code I used and how I learned unique computer science skills from each project very soon.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thanks,
+John Salvi
